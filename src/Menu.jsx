@@ -37,9 +37,6 @@ function Menu() {
                     <Button flex='1' variant='ghost' leftIcon={<BiLike />}>
                         Update
                     </Button>
-                    <Button flex='1' variant='ghost' leftIcon={<BiChat />}>
-                        Comment
-                    </Button>
                     <Button flex='1' variant='ghost' leftIcon={<BiShare />}>
                         Share
                     </Button>
